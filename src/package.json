@@ -1,6 +1,6 @@
 {
-  "name": "@ngxs-labs/async-storage-plugin",
-  "version": "0.1.1",
+  "name": "@artemis-software/async-storage-plugin",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ngxs-labs/async-storage-plugin.git"
@@ -13,6 +13,6 @@
   "peerDependencies": {
     "@angular/core": "^16.2.12",
     "@ngxs/store": "^3.8.2",
-    "rxjs": "^7.4.0"
+    "rxjs": "^6.6.7"
   }
 }

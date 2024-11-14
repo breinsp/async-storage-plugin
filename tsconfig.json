@@ -16,7 +16,11 @@
     "paths": {
       "@ngxs-labs/async-storage-plugin": [
         "dist/@ngxs-labs/async-storage-plugin"
-      ]
-    }
-  }
+      ],
+    },
+  },
+  "angularCompilerOptions": {
+    "compilationMode": "partial"
+  },
+  "exclude": ["node_modules"]
 }
